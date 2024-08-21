@@ -28,3 +28,19 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+
+
+Projeto criado a partir da aula da RocketSeat 
+
+Desenvolvimento de controlador de gastos utilizando React, typeScript
+Server adicionado manualmente com um.json
+
+- Tela inicial, possui um controlador de valores no cabeçalho, e a listagem dos gastos.
+- Um botão para nova transação, responsável por adicionar um novo gasto/entrada
+<img width="1432" alt="image" src="https://github.com/user-attachments/assets/9723ecc7-b62a-456b-9f5f-302f1a5167ad">
+
+- Botão de Nova Transação, responsavel por cadastrar um nova transação, composto por descrição, preço e categoria. Tambem é possivel selecionar se é uma entrada ou saída.
+<img width="1434" alt="image" src="https://github.com/user-attachments/assets/78fa4400-7cb3-4365-bd86-faa68ea78a18">
+
+
